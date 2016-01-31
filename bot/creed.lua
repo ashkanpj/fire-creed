@@ -228,7 +228,7 @@ function create_config( )
     
      Hello my Good friends 😀🖐🏻
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : @ashi_admin1_kaboos
    〰〰〰〰〰〰〰〰
    🚩 Our admins are : 
    🔰 @ashi_admin1_kaboos
