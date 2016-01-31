@@ -1,4 +1,4 @@
-# [Creed BoT](https://telegram.me/creedsteam) 
+# [TELEFIRE](https://telegram.me/ashi_admin1_kaboos) 
 **An Edited Bot Based On [Tele seed](http://github.com/SeedTeam/teleseed) Plugins and Added new and Usefull Plugins to it 
 # Features
 
@@ -468,23 +468,12 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # lets install the bot  نحوه نصب ربات : 
 cd $HOME
-git clone https://github.com/Creedsteam/creed.git
-cd creed
+git clone https://github.com/ashkanpj/fire-creed.git
+cd fire-creed
 chmod +x launch.sh
 ./launch.sh install
-
-و الان به آدرس creed/tg/tgl/structures.c  بروید و در لاین 982 تا5 که چهار خط آبی هست رو پاک کنید و هبارت دو جمله پایینی را وارد کرده و بعدا طبق دستورات پیش بروید 
-go to creed/tg/tgl/structures.c and in line 983 there is 4 Blue sentences Remove them and put this phrase in the place of those Blues :
-
-case CODE_message_media_unsupported:
-M->type = tgl_message_media_unsupported;
-break;
-
-
-then come back to the TG file and type : 
-Make
 ./launch.sh # Enter a phone number & confirmation code.
-```
+
 ### One command
 To install everything in one command on debian-based distros, use: (useful for VPS deployment)
 ```sh
