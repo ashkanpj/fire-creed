@@ -21,7 +21,7 @@ local function run(msg)
 end
 
 return {
-  description = "Kicking ourself (bot) from unmanaged groups.",
+  description = "متاسفانه ای گروه برای فایر نیست.",
   usage = "Plugin For Kiling add with id ....",
   patterns = {
     "^!!tgservice (.+)$"
