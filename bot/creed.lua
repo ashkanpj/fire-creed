@@ -220,7 +220,7 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {120518968,132472033},--Sudo users
+    sudo_users = {81444630},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -231,10 +231,7 @@ function create_config( )
     ‼️ this bot is made by : @creed_is_dead
    〰〰〰〰〰〰〰〰
    🚩 Our admins are : 
-   🔰 @sorblack_creed
-   🔰 @amircc_creed
-   🔰 @aria_creed
-   🔰 @alireza_mah_creed 
+   🔰 @ashi_admin1_kaboos
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    
@@ -322,7 +319,7 @@ set some one to global admin🔸
 remove somone from global admin🔹
 〰〰〰〰〰〰〰〰〰〰〰
 3. Stats :©
-!stats creedbot (sudoers)✔️
+!stats firebot (sudoers)✔️
 shows bt stats🔚
 
 !stats🔘
@@ -337,8 +334,8 @@ send maseage to admins via bot🔈
 will tag users©
 〰〰〰〰〰〰〰〰〰
 🔜 more plugins 
-⚠️ We are Creeds ... ⚠️
-our channel : @creedantispam_channel🔋
+⚠️ We are telefire ... ⚠️
+Admins: @ashi_admin1_kaboos
 You Can user both "!" & "/" for them🎧
 ]]
 
